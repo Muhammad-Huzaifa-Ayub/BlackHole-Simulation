@@ -1,0 +1,5 @@
+C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build/CMakeFiles/BlackHole2D.dir
+C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build/CMakeFiles/BlackHole3D.dir
+C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build/CMakeFiles/Test.dir
+C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build/CMakeFiles/edit_cache.dir
+C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build/CMakeFiles/rebuild_cache.dir

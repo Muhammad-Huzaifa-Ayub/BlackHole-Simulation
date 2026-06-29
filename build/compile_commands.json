@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL  -g -std=gnu++17 -o CMakeFiles\\BlackHole2D.dir\\2D_BlackHole.cpp.obj -c \"C:\\Users\\Hamza Pc\\Documents\\cpp\\BlackHole Simulation\\2D_BlackHole.cpp\"",
+  "file": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/2D_BlackHole.cpp",
+  "output": "CMakeFiles/BlackHole2D.dir/2D_BlackHole.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL  -g -std=gnu++17 -o CMakeFiles\\BlackHole3D.dir\\3D_BlackHole.cpp.obj -c \"C:\\Users\\Hamza Pc\\Documents\\cpp\\BlackHole Simulation\\3D_BlackHole.cpp\"",
+  "file": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/3D_BlackHole.cpp",
+  "output": "CMakeFiles/BlackHole3D.dir/3D_BlackHole.cpp.obj"
+},
+{
+  "directory": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL  -g -std=gnu++17 -o CMakeFiles\\Test.dir\\Test.cpp.obj -c \"C:\\Users\\Hamza Pc\\Documents\\cpp\\BlackHole Simulation\\Test.cpp\"",
+  "file": "C:/Users/Hamza Pc/Documents/cpp/BlackHole Simulation/Test.cpp",
+  "output": "CMakeFiles/Test.dir/Test.cpp.obj"
+}
+]

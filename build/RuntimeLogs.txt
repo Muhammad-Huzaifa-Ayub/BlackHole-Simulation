@@ -1,0 +1,360 @@
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-28 13:08:00
+Window: 800x600
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-28 13:08:00
+Run Ended             : 2026-06-28 13:08:24
+Benchmark Runtime     : 21.658 s
+Total Runtime         : 24.658 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 800 x 600
+Pixels/Frame          : 480000
+
+Frames Rendered       : 733
+
+Average FPS           : 33.844
+Average Frame Time    : 28.876 ms
+
+Pixels Rendered       : 351.840 Million
+Pixels/sec            : 16.245 Million/sec
+
+Estimated RK4 Steps   : 87.960 Billion
+RK4 Steps/sec         : 4.061 Billion/sec
+
+Estimated GFLOPs/sec  : 112.498
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 17.250
+Final Theta           : 99.867
+Final Phi             : -370.761
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-28 13:41:38
+Window: 1280x720
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-28 13:41:38
+Run Ended             : 2026-06-28 13:42:27
+Benchmark Runtime     : 46.668 s
+Total Runtime         : 49.668 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1280 x 720
+Pixels/Frame          : 921600
+
+Frames Rendered       : 794
+
+Average FPS           : 17.014
+Average Frame Time    : 57.901 ms
+
+Pixels Rendered       : 731.750 Million
+Pixels/sec            : 15.680 Million/sec
+
+Estimated RK4 Steps   : 182.938 Billion
+RK4 Steps/sec         : 3.920 Billion/sec
+
+Estimated GFLOPs/sec  : 108.584
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 22.500
+Final Theta           : 93.765
+Final Phi             : -247.002
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-28 13:43:26
+Window: 1920x1080
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-28 13:43:26
+Run Ended             : 2026-06-28 13:44:07
+Benchmark Runtime     : 38.037 s
+Total Runtime         : 41.037 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1920 x 1080
+Pixels/Frame          : 2073600
+
+Frames Rendered       : 304
+
+Average FPS           : 7.992
+Average Frame Time    : 124.651 ms
+
+Pixels Rendered       : 630.374 Million
+Pixels/sec            : 16.573 Million/sec
+
+Estimated RK4 Steps   : 157.594 Billion
+RK4 Steps/sec         : 4.143 Billion/sec
+
+Estimated GFLOPs/sec  : 114.766
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 15.750
+Final Theta           : 88.866
+Final Phi             : -283.872
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-29 10:50:04
+Window: 1920x1080
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-29 10:50:04
+Run Ended             : 2026-06-29 10:50:12
+Benchmark Runtime     : 4.427 s
+Total Runtime         : 7.427 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1920 x 1080
+Pixels/Frame          : 2073600
+
+Frames Rendered       : 35
+
+Average FPS           : 7.906
+Average Frame Time    : 122.693 ms
+
+Pixels Rendered       : 72.576 Million
+Pixels/sec            : 16.394 Million/sec
+
+Estimated RK4 Steps   : 18.144 Billion
+RK4 Steps/sec         : 4.098 Billion/sec
+
+Estimated GFLOPs/sec  : 113.526
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 24.000
+Final Theta           : 85.256
+Final Phi             : 3.094
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-29 10:51:06
+Window: 1280x720
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-29 10:51:06
+Run Ended             : 2026-06-29 10:51:51
+Benchmark Runtime     : 42.498 s
+Total Runtime         : 45.498 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1280 x 720
+Pixels/Frame          : 921600
+
+Frames Rendered       : 739
+
+Average FPS           : 17.389
+Average Frame Time    : 57.341 ms
+
+Pixels Rendered       : 681.062 Million
+Pixels/sec            : 16.026 Million/sec
+
+Estimated RK4 Steps   : 170.266 Billion
+RK4 Steps/sec         : 4.006 Billion/sec
+
+Estimated GFLOPs/sec  : 110.977
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 17.250
+Final Theta           : 91.702
+Final Phi             : -212.452
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-29 10:55:24
+Window: 1280x720
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-29 10:55:24
+Run Ended             : 2026-06-29 10:56:34
+Benchmark Runtime     : 66.925 s
+Total Runtime         : 69.925 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1280 x 720
+Pixels/Frame          : 921600
+
+Frames Rendered       : 999
+
+Average FPS           : 14.927
+Average Frame Time    : 65.378 ms
+
+Pixels Rendered       : 920.678 Million
+Pixels/sec            : 13.757 Million/sec
+
+Estimated RK4 Steps   : 230.170 Billion
+RK4 Steps/sec         : 3.439 Billion/sec
+
+Estimated GFLOPs/sec  : 95.267
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 22.500
+Final Theta           : 84.225
+Final Phi             : -17.017
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-29 10:57:15
+Window: 1280x720
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-29 10:57:15
+Run Ended             : 2026-06-29 10:58:20
+Benchmark Runtime     : 62.010 s
+Total Runtime         : 65.010 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1280 x 720
+Pixels/Frame          : 921600
+
+Frames Rendered       : 911
+
+Average FPS           : 14.691
+Average Frame Time    : 66.016 ms
+
+Pixels Rendered       : 839.578 Million
+Pixels/sec            : 13.539 Million/sec
+
+Estimated RK4 Steps   : 209.894 Billion
+RK4 Steps/sec         : 3.385 Billion/sec
+
+Estimated GFLOPs/sec  : 93.761
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 27.000
+Final Theta           : 91.186
+Final Phi             : -127.626
+
+==========================================================
+Schwarzschild Physics Core FPS Log
+Run started: 2026-06-29 10:59:50
+Window: 1280x720
+OpenGL Version: 4.3.0 NVIDIA 385.73
+Renderer: Quadro K2100M/PCIe/SSE2
+GLSL: 4.30 NVIDIA via Cg compiler
+----------------------------------------
+
+
+==========================================================
+                NEW BENCHMARK RUN
+==========================================================
+
+Run Started           : 2026-06-29 10:59:50
+Run Ended             : 2026-06-29 11:01:13
+Benchmark Runtime     : 80.821 s
+Total Runtime         : 83.821 s
+
+GPU Vendor            : NVIDIA Corporation
+GPU Renderer          : Quadro K2100M/PCIe/SSE2
+OpenGL Version        : 4.3.0 NVIDIA 385.73
+GLSL Version          : 4.30 NVIDIA via Cg compiler
+
+Resolution            : 1280 x 720
+Pixels/Frame          : 921600
+
+Frames Rendered       : 1381
+
+Average FPS           : 17.087
+Average Frame Time    : 57.667 ms
+
+Pixels Rendered       : 1272.730 Million
+Pixels/sec            : 15.747 Million/sec
+
+Estimated RK4 Steps   : 318.182 Billion
+RK4 Steps/sec         : 3.937 Billion/sec
+
+Estimated GFLOPs/sec  : 109.051
+
+Initial Camera Radius : 16.500
+Final Camera Radius   : 18.750
+Final Theta           : 86.287
+Final Phi             : -65.231
+
+==========================================================

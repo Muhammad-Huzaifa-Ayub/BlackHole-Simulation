@@ -1,0 +1,3 @@
+C:\cmake-4.4.0-rc1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\BlackHole3D.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\BlackHole3D.dir/objects.a @CMakeFiles\BlackHole3D.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BlackHole3D.dir/objects.a -Wl,--no-whole-archive -o BlackHole3D.exe -Wl,--out-implib,libBlackHole3D.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BlackHole3D.dir\linkLibs.rsp
