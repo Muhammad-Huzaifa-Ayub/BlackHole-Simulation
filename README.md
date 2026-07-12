@@ -64,21 +64,6 @@ A live toggle allows switching between this diagnostic mode and a clean monochro
 
 Each photon is rendered with a leading “head” and a fading trail, turning discrete ray steps into a continuous relativistic flow field.
 
-## 🔹 Real-Time Relativity Visualization Layer
-
-To make the simulation more intuitive, I also built a real-time visualization and diagnostic layer directly inside the engine.
-
-Rays are dynamically color-mapped based on conserved angular momentum and proximity to the critical impact parameter of the Schwarzschild geometry:
-
-🟥 Capture zone – rays that fall into the black hole  
-🟧 Photon sphere region – extreme relativistic lensing near unstable orbits  
-🟩 Strong deflection – significant gravitational bending  
-🟦 Weak deflection – minor trajectory distortion at larger radii  
-
-A live toggle allows switching between this diagnostic mode and a clean monochrome visualization.
-
-Each photon is rendered with a leading “head” and a fading trail, turning discrete ray steps into a continuous relativistic flow field.
-
 ## Performance comparison under a standardized workload
 
 N = 250 active rays  
