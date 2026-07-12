@@ -440,13 +440,3 @@ Although simplified for real-time execution, every rendered pixel follows a nume
 # Author
 
 **Muhammad Huzaifa**
-
-Real-time General Relativity Visualization
-
-GPU Ray Tracing
-
-Scientific Graphics
-
-Numerical Simulation
-
-OpenGL Rendering
